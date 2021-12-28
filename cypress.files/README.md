@@ -67,7 +67,7 @@ then "Load unpacked" from the `dist/` directory
 is present)
 
 
-# Can this 
+# Is this suitable for automated testing?
 Search for "Only Test Apps You Control" on [this link](https://docs.cypress.io/guides/getting-started/writing-your-first-test)
 and you'll see a rather concerning warning "You *shouldn't* test applications you *don't control.* The warning explains why:
 
